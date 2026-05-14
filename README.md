@@ -2,8 +2,8 @@
 Скриншоты
 Главное меню | Игровой процесс | Результаты 
 
-<img width="50%"  alt="2026-05-14_20-36-33" src="https://github.com/user-attachments/assets/e470e754-1ea3-4e3e-970b-1618870da578" />
-<img width="50%"  alt="Снимок экрана 2026-05-14 203715" src="https://github.com/user-attachments/assets/612deb1f-54e6-407a-966d-444144d471f1" />
+<img width="40%"  alt="2026-05-14_20-36-33" src="https://github.com/user-attachments/assets/e470e754-1ea3-4e3e-970b-1618870da578" />
+<img width="40%"  alt="Снимок экрана 2026-05-14 203715" src="https://github.com/user-attachments/assets/612deb1f-54e6-407a-966d-444144d471f1" />
 
 
 
